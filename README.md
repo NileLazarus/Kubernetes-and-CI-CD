@@ -1,5 +1,6 @@
 # Kubernetes and CI/CD: Streamlining Deployment Processes
 ![d00605db-c1cdpiplin](https://user-images.githubusercontent.com/40665351/220445701-c965c2e1-051a-4871-96da-1587aa943f6d.png)
+
 As containerization becomes more popular, Kubernetes has emerged as one of the leading platforms for deploying, scaling, and managing containerized applications. However, Kubernetes can be complex to manage on its own, which is why many organizations are incorporating it into their CI/CD pipelines to streamline deployment processes. In this blog post, we’ll discuss how Kubernetes can be used in a CI/CD pipeline, including how to set up a pipeline with Kubernetes, automate deployments, integrate with continuous integration tools, and scale and version applications.
 
 ## Introduction
